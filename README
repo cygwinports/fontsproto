@@ -1,6 +1,6 @@
 fontsproto
 ------------------------------------------
-Xorg XFont protocol headers
+X.Org XFont protocol headers
 
 Build requirements:
   cygwin-1.5.18-1
