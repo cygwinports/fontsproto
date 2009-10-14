@@ -1,3 +1,4 @@
 category: X11
-sdesc: "X.Org XFont protocol headers"
-ldesc: "X.Org XFont protocol headers"
+requires: xproto
+sdesc: "X.Org XFont headers"
+ldesc: "X.Org XFont headers"
