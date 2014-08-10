@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="fontsproto"
+VERSION=2.1.2
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="X.Org XFont headers"
+DESCRIPTION="X.Org XFont headers"
